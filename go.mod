@@ -2,4 +2,4 @@ module use-my-math
 
 go 1.22.2
 
-require github.com/shddtr/my-math v0.0.0-20250223050841-68d01501acae
+require github.com/shddtr/my-math v1.0.0

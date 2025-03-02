@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/shddtr/my-math/double"
-	"github.com/shddtr/my-math/formatter"
+	"github.com/shddtr/my-math/pkg/double"
+	"github.com/shddtr/my-math/pkg/formatter"
 )
 
 func main() {
